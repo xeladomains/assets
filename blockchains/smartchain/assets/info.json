@@ -1,0 +1,11 @@
+{
+   "name": "Worthless",
+    "website": "https://www.worthlesstoken.com",
+    "description": "Worthless is a worthless utility token.",
+    "explorer": "https://www.bscscan.com/token/0x1c3ccbcdad2c21e577e8e21a00b881971a854459",
+    "type": "BEP20",
+    "symbol": "WTH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1c3ccbcdad2c21e577e8e21a00b881971a854459"
+}
